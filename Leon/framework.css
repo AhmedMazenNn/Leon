@@ -1,0 +1,36 @@
+.p-20{
+    padding: 20px;
+}
+.pl-15{
+    padding-left: 15px;
+}
+.pr-15{
+    padding-right: 15px;
+}
+.ml-auto{
+    margin-left: auto;
+}
+.mr-auto{
+    margin-right: auto;
+}
+.font-w-800{
+    font-weight: 800;
+}
+.txt-center{
+    text-align: center;
+}
+.d-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill , minmax(300px ,1fr));
+    gap: 20px;
+}
+.flex-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-space-between{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
